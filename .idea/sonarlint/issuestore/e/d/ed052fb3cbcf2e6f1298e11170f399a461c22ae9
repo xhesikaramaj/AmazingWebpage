@@ -1,0 +1,8 @@
+
+Psquid:S1481"2Remove this unused "liquorService" local variable.(¦»¯ô8ôò«.
+Isquid:S1989"&Add a "try/catch" block for "forward".(¶úòÊüÿÿÿÿ8ôò«.
+Isquid:S1989"&Add a "try/catch" block for "forward".(¶úòÊüÿÿÿÿ8ôò«.
+[squid:UselessImportCheck
+"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ôò«.
+_squid:S1854"ARemove this useless assignment to local variable "liquorService".(¦»¯ô8ôò«.
+Ásquid:S1598"This file "ServletCalculator.java" should be located in "org/example" directory, not in "/Users/vasja.collaku/Documents/GitHub/AmazingWebpage/src/main/java".(ŠË˜‰ÿÿÿÿÿ8Ööû«.
